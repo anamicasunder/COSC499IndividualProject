@@ -13,11 +13,11 @@ public class minimum {
 
     }
 
-		public static int getMin(int[] numbers){
-            int min = numbers[0];
-            for(int x=1; x<numbers.length; x++){
-              if(numbers[x] < min){
-                min = numbers[x];
+		public static int getMin(int[] num){
+            int min = num[0];
+            for(int x=1; x<num.length; x++){
+              if(num[x] < min){
+                min = num[x];
               }
             }
             return min;
