@@ -1,3 +1,4 @@
+//this file is to find the max number in an array
 import java.util.Arrays;
 
 public class maximum {
