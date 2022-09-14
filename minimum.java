@@ -1,3 +1,4 @@
+//getting the min number from an array
 import java.util.Arrays;
 
 public class minimum {
